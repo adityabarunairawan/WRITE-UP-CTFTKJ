@@ -7,3 +7,7 @@
 ![web1](https://github.com/adityabarunairawan/WRITE-UP-CTFTKJ/assets/136324726/b9d87014-1c6b-4804-8b09-132d57119d0a)
 
 **Kemudian saya mencoba melihat isi di dalam website tersebut ada apa dan mungkin flag tersebut ada di dalam website tersebut saya menggunakan view page source/ALT+U dan ternyata saya berhasil menemukan flag yang tersembunyi di dalam webiste tersebut**
+
+![Annotation 2023-06-16 104702](https://github.com/adityabarunairawan/WRITE-UP-CTFTKJ/assets/136324726/47c61064-58ab-4004-a6f7-d0344378f7e8)
+
+**FLAG:W9{*************}**
