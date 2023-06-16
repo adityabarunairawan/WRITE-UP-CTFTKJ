@@ -11,4 +11,4 @@
 
 ![image](https://github.com/adityabarunairawan/WRITE-UP-CTFTKJ/assets/136324726/8c0cca61-6481-458a-83e5-e53c99697d8e)
 
-**FLAG:{**************}**
+**FLAG:{******************}**
