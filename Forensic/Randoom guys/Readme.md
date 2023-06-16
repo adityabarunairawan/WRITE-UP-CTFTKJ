@@ -9,6 +9,6 @@
 
 **Perlu diingat bahwa SVG adalah format berbasis teks, yang berarti Anda dapat membukanya dengan editor teks dan membaca kode yang mewakili elemen-elemen gambar. Namun, untuk memahami struktur dan konten dengan lebih baik, penggunaan peramban web atau aplikasi pengedit grafis yang mendukung SVG dapat menjadi pilihan yang lebih baik, dan saya berhasil menemukan flag yang tersembunyi yang ada di dalam foto tersebut**
 
-![image](https://github.com/adityabarunairawan/WRITE-UP-CTFTKJ/assets/136324726/1df6ccc2-4334-43a9-b125-8f6e54a0b881)
+![image](https://github.com/adityabarunairawan/WRITE-UP-CTFTKJ/assets/136324726/8c0cca61-6481-458a-83e5-e53c99697d8e)
 
 **FLAG:{**************}**
