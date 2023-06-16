@@ -22,3 +22,5 @@
 **Kemudian saya memilih text Encrypt - Decrypt karena saya ingin mengdecrypt teks yang ada di barcode tersebut dan boom saya mendapatkan flag dengan berformat W9**
 
 ![image](https://github.com/adityabarunairawan/WRITE-UP-CTFTKJ/assets/136324726/30a0d44c-8e33-424b-8e88-0d4cb5303f3e)
+
+**FLAG:W9{*********************}**
