@@ -1,1 +1,1 @@
-
+Pada soal ini seorang yang bernama Albert tersesat di hutan lebat yang dikelilingi laut dan mencoba melarikan diri dengan mengirimkan sinyal SOS yang berisi kode. Jack yang bekerja di mercusuar menyadari bahwa seseorang sedang mengirimkan sinyal SOS dan respon secepat dia bisa. Menurut Anda, apa yang Albert coba katakan? jadi kita di suruh mengartikan apa yang albert katakan
