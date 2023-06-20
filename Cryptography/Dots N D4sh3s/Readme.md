@@ -19,4 +19,4 @@
 
 ![image](https://github.com/adityabarunairawan/WRITE-UP-CTFTKJ/assets/136324726/500e4710-93d2-44a9-b9f3-df450afedcba)
 
-**FLAG:W9{94buT_y4_k4514n}**
+**FLAG:W9{**********************}**
