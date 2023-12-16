@@ -28,4 +28,4 @@ dan saya berhasil mendapatkan flag, jika parameter yang sesuai dari permintaan s
 ![7](https://github.com/adityabarunairawan/WRITE-UP-CTFTKJ/assets/136324726/818d7c23-b49b-422c-8f72-951747af00a2)
 
 
-**FLAG:W92{************)**
+**FLAG:W92{*****************************)**
