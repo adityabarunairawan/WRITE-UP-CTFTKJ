@@ -19,3 +19,5 @@ Setelah itu saya mengecek Javascript apakah ada sebuah flag yang terbagi menjadi
 
 ![5](https://github.com/adityabarunairawan/WRITE-UP-CTFTKJ/assets/136324726/641a01d2-4414-4e40-aca8-70abb1324f9a)
 
+
+# FLAG: W92(***********) #
